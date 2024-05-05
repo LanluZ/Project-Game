@@ -1,11 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{20af6fa8-c694-f393-111b-fc0c729ef22c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{78112eec-5bad-ca15-6ff4-910379850bff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullscreenEditor", "FullscreenEditor.csproj", "{edcf5b8c-1ad9-3223-2f91-80cc88c655e8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{a4184fcc-4c74-696b-e2f0-b4460cc1b46e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{3728cd98-79cd-191b-a90e-57ebc1fd05cc}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20af6fa8-c694-f393-111b-fc0c729ef22c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20af6fa8-c694-f393-111b-fc0c729ef22c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78112eec-5bad-ca15-6ff4-910379850bff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78112eec-5bad-ca15-6ff4-910379850bff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{edcf5b8c-1ad9-3223-2f91-80cc88c655e8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{edcf5b8c-1ad9-3223-2f91-80cc88c655e8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a4184fcc-4c74-696b-e2f0-b4460cc1b46e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a4184fcc-4c74-696b-e2f0-b4460cc1b46e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3728cd98-79cd-191b-a90e-57ebc1fd05cc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3728cd98-79cd-191b-a90e-57ebc1fd05cc}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
